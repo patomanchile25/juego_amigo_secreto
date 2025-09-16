@@ -48,4 +48,3 @@ document.getElementById("amigo").addEventListener("keypress", function(event) {
   }
 
 });
-//reiniciar sorteo
