@@ -46,4 +46,6 @@ document.getElementById("amigo").addEventListener("keypress", function(event) {
     event.preventDefault();
     agregarAmigo();
   }
+
 });
+//reiniciar sorteo
